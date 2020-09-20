@@ -1,1 +1,34 @@
+.header {
+    font: 18px Verdana MS, Times New Roman, Avantgarde sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
+.image {
+    height: 200px;
+    width: 300px;
+    margin: 20px auto;
+    display: block;
+}
+
+.content {
+    position: center;
+}
+
+.cv {
+    font: 20px Verdana MS, Times New Roman, Avantgarde sans-serif;
+    line-height: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.avatar {
+    margin: 2vh auto;
+}
+
+.table {border: 1px dashed grey;}
+th {border: 1px solid grey;}
+td {border: 1px solid grey;}
